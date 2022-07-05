@@ -1,4 +1,11 @@
-### Hi there 👋
+### Привет 👋
+### Меня зовут Киреев Иван.
+### Здесь можно посмотреть примеры того, что я умею на практике😊
+
+ <div id="header" align="left">
+  <img src="https://media.giphy.com/media/ue5ZwFCaxy64M/giphy.gif" width="200"/>
+</div>
+
 
 <!--
 **koticode/koticode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
